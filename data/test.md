@@ -1,1 +1,2 @@
-사용한 데이터 파일 또는 출처 주소. 적어도 3차시에 데이터 파일을 올립니다
+( 민주 ) https://www.cdc.gov/clean-hands/data-research/facts-stats/index.html?utm_source=chatgpt.com
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8120257/?utm_source=chatgpt.com
