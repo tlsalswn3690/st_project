@@ -1,6 +1,18 @@
 
 import streamlit as st
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# 한글 폰트 자동 설정
+import koreanize_matplotlib
+
+# 그래프 기본 설정
+plt.rcParams["axes.unicode_minus"] = False
+plt.rcParams["figure.figsize"] = (10, 5)
+
+import streamlit as st
+import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
