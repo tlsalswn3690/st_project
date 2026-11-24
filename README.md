@@ -85,4 +85,4 @@ PMC 논문: 4년간의 병원 내 손 위생 중재 연구. 실제 데이터 표
 code/main.py 실행. 필요한 라이브러리는 requirements.txt.
 
 ## 배포(선택)
-스트림릿 주소:
+스트림릿 주소:https://stproject-ageaemsqmdzp28wqnrolid.streamlit.app/
